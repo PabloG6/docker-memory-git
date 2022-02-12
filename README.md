@@ -1,0 +1,2 @@
+# Overview
+This project is designed as a `tutorial/research` into storing git files in memory as compressed tars for docker to consume. There are other projects which cover this and solve this issue in a similar fashion, so if you'd like to use those instead u can just go [here](https://github.com/apenella/go-docker-builder)
